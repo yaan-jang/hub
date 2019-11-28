@@ -1,6 +1,0 @@
-hub AWG_Hub_Yaan
-shortLabel ENCODE Analysis Hub Yaan
-longLabel ENCODE Integrative Analysis Data Hub Yaan
-genomesFile genomes.txt
-email <a HREF="mailto:dunham@ebi.ac.uk"TARGET=_BLANK>Ian Dunham</a>
-descriptionUrl http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3439153/

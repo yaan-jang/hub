@@ -1,6 +1,0 @@
-track exampleInteractTrack
-type bigInteract
-visibility full
-shortLabel exInteract
-longLabel Example interact track
-bigDataUrl interactExample4.inter.bb
