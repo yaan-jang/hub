@@ -1,0 +1,2 @@
+track type=bigInteract name="interact Example Four" description="A bigInteract file" useScore=on bigDataUrl=/interactExample4.inter.bb visibility=pack 
+browser position chr3:63,820,967-63,880,091
